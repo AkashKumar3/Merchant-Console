@@ -311,7 +311,7 @@ const Ecommerce = () => {
               <p className="font-semibold text-lg">Devin Ai Comming Soon</p>
               <p className="text-gray-400 ">By Cognition Labs</p>
               <p className="mt-8 text-sm text-gray-400">
-              Devin AI is an autonomous artificial intelligence assistant tool created by Cognition Labs.
+                Devin AI is an autonomous artificial intelligence assistant tool created by Cognition Labs.
               </p>
               <div className="mt-3">
                 <Button

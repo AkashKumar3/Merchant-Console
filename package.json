@@ -1,5 +1,5 @@
 {
-  "homepage": "https://AkashKumar.github.io/Admin-Dashboard",
+  "homepage": "https://AkashKumar3.github.io/Admin-Dashboard",
   "name": "snake-admin-dashboard",
   "version": "0.1.0",
   "private": true,
@@ -21,13 +21,14 @@
     "react-scripts": "5.0.0"
   },
   "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
+    "start": "react-scripts --max_old_space_size=4096 start",
+    "build": "react-scripts --max_old_space_size=4096 build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-     "predeploy": "npm run build",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
+  
   "eslintConfig": {
     "extends": [
       "react-app",
