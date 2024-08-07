@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/Merchant-Dashboard/static/css/main.7df0b1e2.css",
-    "main.js": "/Merchant-Dashboard/static/js/main.76663757.js",
-    "static/media/product4.jpg": "/Merchant-Dashboard/static/media/product4.767417bea17688d6d8ce.jpg",
-    "static/media/product2.jpg": "/Merchant-Dashboard/static/media/product2.e93f12ec1b20980a1bd1.jpg",
-    "static/media/product1.jpg": "/Merchant-Dashboard/static/media/product1.b8efc7a24c281ed8911b.jpg",
-    "static/media/product3.jpg": "/Merchant-Dashboard/static/media/product3.be6bce80c539b3222473.jpg",
-    "static/media/avatar2.jpg": "/Merchant-Dashboard/static/media/avatar2.0ef3aeef14f9abe69b21.jpg",
-    "static/media/product7.jpg": "/Merchant-Dashboard/static/media/product7.69341801e3f5245c8020.jpg",
-    "static/media/product6.jpg": "/Merchant-Dashboard/static/media/product6.3260a3b510aa12fc136b.jpg",
-    "static/media/avatar3.png": "/Merchant-Dashboard/static/media/avatar3.b8b697a19bb7475134af.png",
-    "static/media/product9.jpg": "/Merchant-Dashboard/static/media/product9.f6e9447d93a9413bd9e5.jpg",
-    "static/media/product5.jpg": "/Merchant-Dashboard/static/media/product5.f4c5d8f991b753ca0fcc.jpg",
-    "index.html": "/Merchant-Dashboard/index.html",
-    "main.7df0b1e2.css.map": "/Merchant-Dashboard/static/css/main.7df0b1e2.css.map",
-    "main.76663757.js.map": "/Merchant-Dashboard/static/js/main.76663757.js.map"
+    "main.css": "/Merchant-Console/static/css/main.7df0b1e2.css",
+    "main.js": "/Merchant-Console/static/js/main.1240634c.js",
+    "static/media/product4.jpg": "/Merchant-Console/static/media/product4.767417bea17688d6d8ce.jpg",
+    "static/media/product2.jpg": "/Merchant-Console/static/media/product2.e93f12ec1b20980a1bd1.jpg",
+    "static/media/product1.jpg": "/Merchant-Console/static/media/product1.b8efc7a24c281ed8911b.jpg",
+    "static/media/product3.jpg": "/Merchant-Console/static/media/product3.be6bce80c539b3222473.jpg",
+    "static/media/avatar2.jpg": "/Merchant-Console/static/media/avatar2.0ef3aeef14f9abe69b21.jpg",
+    "static/media/product7.jpg": "/Merchant-Console/static/media/product7.69341801e3f5245c8020.jpg",
+    "static/media/product6.jpg": "/Merchant-Console/static/media/product6.3260a3b510aa12fc136b.jpg",
+    "static/media/avatar3.png": "/Merchant-Console/static/media/avatar3.b8b697a19bb7475134af.png",
+    "static/media/product9.jpg": "/Merchant-Console/static/media/product9.f6e9447d93a9413bd9e5.jpg",
+    "static/media/product5.jpg": "/Merchant-Console/static/media/product5.f4c5d8f991b753ca0fcc.jpg",
+    "index.html": "/Merchant-Console/index.html",
+    "main.7df0b1e2.css.map": "/Merchant-Console/static/css/main.7df0b1e2.css.map",
+    "main.1240634c.js.map": "/Merchant-Console/static/js/main.1240634c.js.map"
   },
   "entrypoints": [
     "static/css/main.7df0b1e2.css",
-    "static/js/main.76663757.js"
+    "static/js/main.1240634c.js"
   ]
 }
