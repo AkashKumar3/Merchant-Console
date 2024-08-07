@@ -1,5 +1,5 @@
 {
-  "homepage": "https://AkashKumar3.github.io/Merchant-Dashboard",
+  "homepage": "https://AkashKumar3.github.io/Merchant-Console",
   "name": "snake-admin-dashboard",
   "version": "0.1.0",
   "private": true,
@@ -28,7 +28,6 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  
   "eslintConfig": {
     "extends": [
       "react-app",
