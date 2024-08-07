@@ -65,29 +65,29 @@ const App = () => {
 
               <Routes>
                 {/* dashboard  */}
-                <Route path="/Admin-Dashboard" element={(<Ecommerce />)} />
-                <Route path="/Admin-Dashboard/ecommerce" element={(<Ecommerce />)} />
+                <Route path="/Merchant-Dashboard" element={(<Ecommerce />)} />
+                <Route path="/Merchant-Dashboard/ecommerce" element={(<Ecommerce />)} />
 
                 {/* pages  */}
-                <Route path="/Admin-Dashboard/orders" element={<Orders />} />
-                <Route path="/Admin-Dashboard/employees" element={<Employees />} />
-                <Route path="/Admin-Dashboard/customers" element={<Customers />} />
+                <Route path="/Merchant-Dashboard/orders" element={<Orders />} />
+                <Route path="/Merchant-Dashboard/employees" element={<Employees />} />
+                <Route path="/Merchant-Dashboard/customers" element={<Customers />} />
 
                 {/* apps  */}
-                <Route path="/Admin-Dashboard/kanban" element={<Kanban />} />
-                <Route path="/Admin-Dashboard/editor" element={<Editor />} />
-                <Route path="/Admin-Dashboard/calendar" element={<Calendar />} />
-                <Route path="/Admin-Dashboard/color-picker" element={<ColorPicker />} />
+                <Route path="/Merchant-Dashboard/kanban" element={<Kanban />} />
+                <Route path="/Merchant-Dashboard/editor" element={<Editor />} />
+                <Route path="/Merchant-Dashboard/calendar" element={<Calendar />} />
+                <Route path="/Merchant-Dashboard/color-picker" element={<ColorPicker />} />
 
                 {/* charts  */}
-                <Route path="/Admin-Dashboard/line" element={<Line />} />
-                <Route path="/Admin-Dashboard/area" element={<Area />} />
-                <Route path="/Admin-Dashboard/bar" element={<Bar />} />
-                <Route path="/Admin-Dashboard/pie" element={<Pie />} />
-                <Route path="/Admin-Dashboard/financial" element={<Financial />} />
-                <Route path="/Admin-Dashboard/color-mapping" element={<ColorMapping />} />
-                <Route path="/Admin-Dashboard/pyramid" element={<Pyramid />} />
-                <Route path="/Admin-Dashboard/stacked" element={<Stacked />} />
+                <Route path="/Merchant-Dashboard/line" element={<Line />} />
+                <Route path="/Merchant-Dashboard/area" element={<Area />} />
+                <Route path="/Merchant-Dashboard/bar" element={<Bar />} />
+                <Route path="/Merchant-Dashboard/pie" element={<Pie />} />
+                <Route path="/Merchant-Dashboard/financial" element={<Financial />} />
+                <Route path="/Merchant-Dashboard/color-mapping" element={<ColorMapping />} />
+                <Route path="/Merchant-Dashboard/pyramid" element={<Pyramid />} />
+                <Route path="/Merchant-Dashboard/stacked" element={<Stacked />} />
 
               </Routes>
             </div>
