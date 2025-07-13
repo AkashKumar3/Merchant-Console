@@ -1,1 +1,1 @@
-visit site:- https://akashkumar3.github.io/Merchant-Console/
+visit site:- https://merchant-console-cl7s.onrender.com
