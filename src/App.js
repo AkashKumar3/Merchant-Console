@@ -65,11 +65,11 @@ const App = () => {
 
               <Routes>
                 {/* dashboard  */}
-                <Route path="/https://merchant-console-cl7s.onrender.com/Merchant-Console/" element={(<Ecommerce />)} />
-                <Route path="/https://merchant-console-cl7s.onrender.com/Merchant-Console/ecommerce" element={(<Ecommerce />)} />
+                <Route path="/" element={(<Ecommerce />)} />
+                <Route path="/ecommerce" element={(<Ecommerce />)} />
 
                 {/* pages  */}
-                <Route path="/https://merchant-console-cl7s.onrender.com/Merchant-Console/orders" element={<Orders />} />
+                <Route path="/orders" element={<Orders />} />
                 <Route path="/employees" element={<Employees />} />
                 <Route path="/customers" element={<Customers />} />
 
@@ -80,14 +80,14 @@ const App = () => {
                 <Route path="/color-picker" element={<ColorPicker />} />
 
                 {/* charts  */}
-                <Route path="/Merchant-Console/line" element={<Line />} />
-                <Route path="/Merchant-Console/area" element={<Area />} />
-                <Route path="/Merchant-Console/bar" element={<Bar />} />
-                <Route path="/Merchant-Console/pie" element={<Pie />} />
-                <Route path="/Merchant-Console/financial" element={<Financial />} />
-                <Route path="/Merchant-Console/color-mapping" element={<ColorMapping />} />
-                <Route path="/Merchant-Console/pyramid" element={<Pyramid />} />
-                <Route path="/Merchant-Console/stacked" element={<Stacked />} />
+                <Route path="/line" element={<Line />} />
+                <Route path="/area" element={<Area />} />
+                <Route path="/bar" element={<Bar />} />
+                <Route path="/pie" element={<Pie />} />
+                <Route path="/financial" element={<Financial />} />
+                <Route path="/color-mapping" element={<ColorMapping />} />
+                <Route path="/pyramid" element={<Pyramid />} />
+                <Route path="/stacked" element={<Stacked />} />
 
               </Routes>
             </div>
