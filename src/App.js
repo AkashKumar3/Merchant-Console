@@ -65,11 +65,11 @@ const App = () => {
 
               <Routes>
                 {/* dashboard  */}
-                <Route path="/" element={(<Ecommerce />)} />
-                <Route path="/ecommerce" element={(<Ecommerce />)} />
+                <Route path="/https://merchant-console-cl7s.onrender.com/Merchant-Console/" element={(<Ecommerce />)} />
+                <Route path="/https://merchant-console-cl7s.onrender.com/Merchant-Console/ecommerce" element={(<Ecommerce />)} />
 
                 {/* pages  */}
-                <Route path="/orders" element={<Orders />} />
+                <Route path="/https://merchant-console-cl7s.onrender.com/Merchant-Console/orders" element={<Orders />} />
                 <Route path="/employees" element={<Employees />} />
                 <Route path="/customers" element={<Customers />} />
 
