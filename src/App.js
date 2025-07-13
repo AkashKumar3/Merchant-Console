@@ -65,19 +65,19 @@ const App = () => {
 
               <Routes>
                 {/* dashboard  */}
-                <Route path="/https://merchant-console-cl7s.onrender.com/Merchant-Console" element={(<Ecommerce />)} />
-                <Route path="/https://merchant-console-cl7s.onrender.com/Merchant-Console/ecommerce" element={(<Ecommerce />)} />
+                <Route path="/" element={(<Ecommerce />)} />
+                <Route path="/ecommerce" element={(<Ecommerce />)} />
 
                 {/* pages  */}
-                <Route path="/https://merchant-console-cl7s.onrender.com/Merchant-Console/orders" element={<Orders />} />
-                <Route path="/https://merchant-console-cl7s.onrender.com/Merchant-Console/employees" element={<Employees />} />
-                <Route path="/https://merchant-console-cl7s.onrender.com/Merchant-Console/customers" element={<Customers />} />
+                <Route path="/orders" element={<Orders />} />
+                <Route path="/employees" element={<Employees />} />
+                <Route path="/customers" element={<Customers />} />
 
                 {/* apps  */}
-                <Route path="/https://merchant-console-cl7s.onrender.com/Merchant-Console/kanban" element={<Kanban />} />
-                <Route path="/https://merchant-console-cl7s.onrender.com/Merchant-Console/editor" element={<Editor />} />
-                <Route path="/https://merchant-console-cl7s.onrender.com/Merchant-Console/calendar" element={<Calendar />} />
-                <Route path="/https://merchant-console-cl7s.onrender.com/Merchant-Console/color-picker" element={<ColorPicker />} />
+                <Route path="/kanban" element={<Kanban />} />
+                <Route path="/editor" element={<Editor />} />
+                <Route path="/calendar" element={<Calendar />} />
+                <Route path="/color-picker" element={<ColorPicker />} />
 
                 {/* charts  */}
                 <Route path="/Merchant-Console/line" element={<Line />} />
