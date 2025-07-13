@@ -65,19 +65,19 @@ const App = () => {
 
               <Routes>
                 {/* dashboard  */}
-                <Route path="/Merchant-Console" element={(<Ecommerce />)} />
-                <Route path="/Merchant-Console/ecommerce" element={(<Ecommerce />)} />
+                <Route path="/https://merchant-console-cl7s.onrender.com/Merchant-Console" element={(<Ecommerce />)} />
+                <Route path="/https://merchant-console-cl7s.onrender.com/Merchant-Console/ecommerce" element={(<Ecommerce />)} />
 
                 {/* pages  */}
-                <Route path="/Merchant-Console/orders" element={<Orders />} />
-                <Route path="/Merchant-Console/employees" element={<Employees />} />
-                <Route path="/Merchant-Console/customers" element={<Customers />} />
+                <Route path="/https://merchant-console-cl7s.onrender.com/Merchant-Console/orders" element={<Orders />} />
+                <Route path="/https://merchant-console-cl7s.onrender.com/Merchant-Console/employees" element={<Employees />} />
+                <Route path="/https://merchant-console-cl7s.onrender.com/Merchant-Console/customers" element={<Customers />} />
 
                 {/* apps  */}
-                <Route path="/Merchant-Console/kanban" element={<Kanban />} />
-                <Route path="/Merchant-Console/editor" element={<Editor />} />
-                <Route path="/Merchant-Console/calendar" element={<Calendar />} />
-                <Route path="/Merchant-Console/color-picker" element={<ColorPicker />} />
+                <Route path="/https://merchant-console-cl7s.onrender.com/Merchant-Console/kanban" element={<Kanban />} />
+                <Route path="/https://merchant-console-cl7s.onrender.com/Merchant-Console/editor" element={<Editor />} />
+                <Route path="/https://merchant-console-cl7s.onrender.com/Merchant-Console/calendar" element={<Calendar />} />
+                <Route path="/https://merchant-console-cl7s.onrender.com/Merchant-Console/color-picker" element={<ColorPicker />} />
 
                 {/* charts  */}
                 <Route path="/Merchant-Console/line" element={<Line />} />
