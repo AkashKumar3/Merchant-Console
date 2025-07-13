@@ -1,5 +1,5 @@
 {
-  "homepage": "/",
+  "homepage": ".",
   "name": "snake-admin-dashboard",
   "version": "0.1.0",
   "private": true,
